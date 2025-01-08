@@ -2,3 +2,8 @@
 address = "127.0.0.1"
 port = 2469
 log = "normal"
+
+[release]
+address = "127.0.0.1"
+port = 2469
+log = "normal"
