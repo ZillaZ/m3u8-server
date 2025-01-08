@@ -1,0 +1,8 @@
+[package]
+name = "m3u8-rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rocket = "0.5.1"
+reqwest = "0.12.12"
